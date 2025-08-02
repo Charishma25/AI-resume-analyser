@@ -98,5 +98,3 @@ Update the machine learning model as needed for more accurate resume analysis.
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Contributors
-- [Obada Kraishan](https://github.com/obadaKraishan)
